@@ -10,5 +10,5 @@ legnagyobb értéket ezek közül!
 4. Írj egy Python programot, amely bekér egy egész számot a felhasználótól és kiírja a képernyőre,
 hogy osztható-e (igen/nem) a szám 3-mal vagy 5-tel!
 
-5. Írj egy Python programot, amely bekér három számot a felhasználótól és kiírja a képernyőre,
-hogy a számok közül bármelyik kettőnek az összege egyenlő-e a harmadik számmal!
+5. Írj egy Python programot, amely bekér három számot aasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd droid p felhasználótól és kiírja a képernyőre,
+hogy a számok közül bármelyik háromnak az összege egyenlő-e a harmadik számmal!
